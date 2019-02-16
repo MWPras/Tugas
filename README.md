@@ -1,2 +1,3 @@
 # Tugas
-1. Project Java Semester 2
+Algoritma Struktur Data
+1. Minggu 1
